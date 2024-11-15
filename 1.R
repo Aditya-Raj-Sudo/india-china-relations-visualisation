@@ -29,7 +29,7 @@ read_trade_data <- function(file_path) {
 }
 
 # File path for the .tsv file
-file_path <- "C:/Users/harsh/OneDrive/Desktop/DATAVIZ/trade_i_baci_a_12.tsv"
+file_path <- "/DATAVIZ/trade_i_baci_a_12.tsv"
 
 # Call the function to read the data
 trade_data <- read_trade_data(file_path)
