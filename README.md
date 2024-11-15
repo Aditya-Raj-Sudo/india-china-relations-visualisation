@@ -2,9 +2,7 @@
 
 # 3 different dashboards 
 
-A simple Streamlit app template for you to modify!
 
-   ```
 ## Interactive Filtering of Data - Dashboard 1 
 
 ![Screenshot 2024-11-15 112318](https://github.com/user-attachments/assets/acf08011-d961-4a3e-8562-5795bc165be1)
@@ -27,4 +25,3 @@ A simple Streamlit app template for you to modify!
 
 
 
-   ```
